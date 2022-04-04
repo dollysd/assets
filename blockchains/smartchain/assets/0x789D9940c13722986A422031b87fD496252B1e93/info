@@ -1,0 +1,14 @@
+{
+   "id":"0x789D9940c13722986A422031b87fD496252B1e93",
+   "name":"DOLLY",
+   "symbol":"DOLLY",
+   "type":"BEP20",
+   "decimals":9,
+   "description":"SPassionate about innovation, we are the evolution of web 3.0.",
+   "website":"https://www.dollysd.com/",
+   "explorer":"https://bscscan.com/token/0x789D9940c13722986A422031b87fD496252B1e93",
+   "social":{
+      "telegram":"https://t.me/dollysd",
+      "twitter":"https://twitter.com/dollysd"
+   }
+}
